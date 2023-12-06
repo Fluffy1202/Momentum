@@ -8,19 +8,19 @@
     },
     "daily2": {
         "itemGrants": [
-            "AthenaBackpack:BID_365_MascotMilitiaCuddle"
+            "CID_022_Athena_Commando_F"
         ],
         "price": 1200
     },
     "daily3": {
         "itemGrants": [
-            "AthenaLoadingScreen:LSID_099_PirateTheme"
+            "EID_AfroHouse"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Snap"
+            "EID_ArmUpDance"
         ],
         "price": 500
     },
@@ -44,7 +44,7 @@
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_494_Athena_Commando_M_MechPilotShark"
+            "CID_046_Athena_Commando_F_HolidaySweater"
         ],
         "price": 800
     }
